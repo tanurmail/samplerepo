@@ -9,5 +9,10 @@ public class Hello {
 		System.out.println("WElcom to Git");
 
 	}
+	
+	public void print() {
+		System.out.println("Print all");
+	
+	}
 
 }
