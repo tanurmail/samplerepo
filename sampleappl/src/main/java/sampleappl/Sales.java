@@ -8,10 +8,10 @@ public class Sales {
 			sum+=num;
 		
 			System.out.println(num);
-	}
-		System.out.println(sum);
+		}
+			System.out.println(sum);
 	
-	}
+		}
 	public void print() {
 		System.out.println("Print all array numbers");
 		display();
