@@ -15,5 +15,6 @@ public class Sales {
 	public void print() {
 		System.out.println("Print all array numbers");
 		display();
+		System.out.println("hello");
 	}
 }
